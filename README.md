@@ -4,5 +4,5 @@
 
 ### Authors of poetry
 
-* Poe
-* Shakespeare
+* Edgar Allan Poe
+* William Shakespeare
