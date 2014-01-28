@@ -1,8 +1,10 @@
 # Poetry
+---
+with Jordan and Tim
 
-## Jordan and Tim
+---
 
-### Authors of poetry
+###Authors of poetry
 
 * Edgar Allan Poe
 
