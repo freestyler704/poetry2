@@ -8,4 +8,3 @@
 
 ### Selections
 * Dream within a Dream
-* Bridal Ballad
