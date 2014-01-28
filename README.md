@@ -7,4 +7,4 @@
 * Edgar Allan Poe
 
 ### Selections
-* Dream within a Dream
+* Dream within a Dream (1849)
